@@ -1,4 +1,4 @@
-## git 无仓库新建提交流程 
+## git 无仓库新建仓库提交流程 
 
 1. cd 进入文件夹目录,执行 git init 命令
 
@@ -62,4 +62,4 @@ git checkout -a    # 切换到分支 a
 
 git push origin a # 提交 a 分支到远程仓库
 
-![图片描述](./创建pull-reqeust.gif)
+![图片描述](./创建pull-request.gif)
