@@ -30,6 +30,7 @@ git branch -M main
 
 git push -u origin main
 
+![图片描述](./提交到远程.jpg)
 
 ## git 已有仓库 pull request 流程 (以 a 分支为例)
 
