@@ -62,4 +62,4 @@ git checkout -a    # 切换到分支 a
 
 git push origin a # 提交 a 分支到远程仓库
 
-![图片描述](./创建pull-reqeust.gif)
+![图片描述](./创建pull-request.gif)
